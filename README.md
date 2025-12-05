@@ -16,4 +16,5 @@ very basic maths.
 1. `hello_world.py` - The canonical "Hello, World!" program.
 2. `hello_name.py` - A program that greets the user by name, using an _f-string_.
 3. `hello_age.py` - A possible third program, about birthdays.
+   
 I’m currently studying Cyber Security as a first-year undergraduate, and it’s already been an exciting journey. I’m learning the fundamentals of network security, ethical hacking, and how to protect systems from real-world threats. Every day brings something new, and I’m really enjoying building the skills that will help me contribute to a safer digital world.
